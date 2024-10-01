@@ -1,0 +1,20 @@
+# Ignore environment variables
+.env
+
+# Ignore Chrome Driver
+chromedriver
+chromedriver.exe
+
+# Ignore Python cache and environment directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment directory
+venv/
+mon_environnement/
+
+# Ignore other temporary files
+*.log
+*.tmp
